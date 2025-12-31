@@ -1,6 +1,4 @@
-# macOS Development Environment Setup
-
-macOS開発環境の最小限のIaC構成です。
+# macOS Setup
 
 ## 構成
 
