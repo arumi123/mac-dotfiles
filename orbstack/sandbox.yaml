@@ -1,0 +1,10 @@
+#cloud-config
+# Sandbox Environment
+# Usage: orb create ubuntu:22.04 sandbox -c orbstack/sandbox.yaml
+
+packages:
+  - git
+  - python3.11
+
+package_update: true
+package_upgrade: true
