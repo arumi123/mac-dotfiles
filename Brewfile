@@ -1,5 +1,4 @@
 brew "git"
-brew "colima"
 cask "alt-tab"
 cask "iterm2"
 cask "visual-studio-code"

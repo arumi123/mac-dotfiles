@@ -26,9 +26,12 @@ ln -sf $(pwd)/Brewfile ~/.Brewfile
 brew bundle install --global
 ```
 
-### 3. Colima 仮想マシンの起動
+### 3. Colima 仮想マシンの起動（オプション）
 
 ```bash
+# Colimaのインストール
+brew install colima
+
 # colima startの設定ファイルは項目が多く環境依存の内容を含むため、
 # 設定ファイルは管理せず、高速化オプションを指定して起動する方法をここに記録する。
 
