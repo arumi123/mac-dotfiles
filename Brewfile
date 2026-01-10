@@ -1,7 +1,7 @@
 brew "git"
+brew "colima"
 cask "alt-tab"
 cask "iterm2"
-cask "orbstack"
 cask "visual-studio-code"
 vscode "anthropic.claude-code"
 vscode "ms-ceintl.vscode-language-pack-ja"
